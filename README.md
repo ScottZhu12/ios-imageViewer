@@ -15,3 +15,4 @@
 
 ![Initial View](mdImages/initial-view.png)
 ![Image Detail](mdImages/image-detail.png)
+![Share Image](mdImages/share.png)
